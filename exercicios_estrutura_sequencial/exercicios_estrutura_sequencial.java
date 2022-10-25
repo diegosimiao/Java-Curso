@@ -122,11 +122,11 @@ public class exercicios_estrutura_sequencial {
 		 quadrado = B * 2 + B * 2; 
 		 retangulo = B * A;
 		
-         System.out.printf("TRIANGULO: %.3f%n", triangulo);
-         System.out.printf("CIRCULO: %.3f%n", circulo);
-         System.out.printf("TRAPEZIO: %.3f%n", trapezio);
-         System.out.printf("QUADRADO: %.3f%n", quadrado);	
-         System.out.printf("RETÂNGULO: %.3f", retangulo);	
+         	 System.out.printf("TRIANGULO: %.3f%n", triangulo);
+        	 System.out.printf("CIRCULO: %.3f%n", circulo);
+		 System.out.printf("TRAPEZIO: %.3f%n", trapezio);
+		 System.out.printf("QUADRADO: %.3f%n", quadrado);	
+		 System.out.printf("RETÂNGULO: %.3f", retangulo);	
          	
 		 sc.close();
 		 */
